@@ -1,0 +1,17 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Motivation}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Potential Attack Senarios}{chapter.2}% 3
+\BOOKMARK [2][-]{subsection.2.1.1}{Libraries abusing undocumented permissions}{section.2.1}% 4
+\BOOKMARK [2][-]{subsection.2.1.2}{Contaminated libraries}{section.2.1}% 5
+\BOOKMARK [2][-]{subsection.2.1.3}{Vulnerable libraries}{section.2.1}% 6
+\BOOKMARK [1][-]{section.2.2}{Real World Findings}{chapter.2}% 7
+\BOOKMARK [1][-]{section.2.3}{Thread Model}{chapter.2}% 8
+\BOOKMARK [0][-]{chapter.3}{FlexDroid Design}{}% 9
+\BOOKMARK [1][-]{section.3.1}{Overview}{chapter.3}% 10
+\BOOKMARK [1][-]{section.3.2}{Challenges}{chapter.3}% 11
+\BOOKMARK [2][-]{subsection.3.2.1}{Secure Inter-Process Stack Inspection}{section.3.2}% 12
+\BOOKMARK [2][-]{subsection.3.2.2}{Ensuring Dalvik Stack Integrity against Native Code}{section.3.2}% 13
+\BOOKMARK [2][-]{subsection.3.2.3}{Dynamic Permission Management}{section.3.2}% 14
+\BOOKMARK [0][-]{chapter.4}{Experimental Setup}{}% 15
+\BOOKMARK [1][-]{subsection.4.0.1}{System Configurations}{chapter.4}% 16
+\BOOKMARK [2][-]{subsection.4.0.2}{Experiment}{subsection.4.0.1}% 17

@@ -1,0 +1,17 @@
+\contentsline {chapter}{\numberline {1}Introduction}{i}{chapter.1}
+\contentsline {chapter}{\numberline {2}Motivation}{ii}{chapter.2}
+\contentsline {section}{\numberline {2.1}Potential Attack Senarios}{ii}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Libraries abusing undocumented permissions}{ii}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Contaminated libraries}{ii}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Vulnerable libraries}{ii}{subsection.2.1.3}
+\contentsline {section}{\numberline {2.2}Real World Findings}{iii}{section.2.2}
+\contentsline {section}{\numberline {2.3}Thread Model}{iii}{section.2.3}
+\contentsline {chapter}{\numberline {3}FlexDroid Design}{iv}{chapter.3}
+\contentsline {section}{\numberline {3.1}Overview}{iv}{section.3.1}
+\contentsline {section}{\numberline {3.2}Challenges}{iv}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Secure Inter-Process Stack Inspection}{v}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Ensuring Dalvik Stack Integrity against Native Code}{v}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Dynamic Permission Management}{vi}{subsection.3.2.3}
+\contentsline {chapter}{\numberline {4}Experimental Setup}{vii}{chapter.4}
+\contentsline {subsection}{\numberline {4.0.1}System Configurations}{vii}{subsection.4.0.1}
+\contentsline {subsection}{\numberline {4.0.2}Experiment}{vii}{subsection.4.0.2}

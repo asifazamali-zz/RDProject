@@ -1,0 +1,116 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.4.12)  12 APR 2015 11:25
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**test.tex
+(./test.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 2 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancybox/fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box26
+\shadowsize=\dimen103
+\@Sbox=\box27
+\do@VerbBox=\toks14
+\the@fancyput=\toks15
+\this@fancyput=\toks16
+\EndVerbatimTokens=\toks17
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read1
+) (/usr/share/texmf/tex/latex/tipa/tipa.sty
+Package: tipa 2002/08/08 TIPA version 1.1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.def
+File: ot1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding OT1 on input line 43.
+)))
+(./IEEEtrantools.sty
+Package: IEEEtrantools 2007/01/11 V1.2 by Michael Shell
+
+-- See the "IEEEtrantools_doc.txt" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/tools/
+\@IEEEtrantmpdimenA=\dimen104
+\@IEEEtrantmpdimenB=\dimen105
+\@IEEEtrantmpcountA=\count88
+\@IEEEtrantmpcountB=\count89
+\@IEEEtrantmptoksA=\toks18
+\IEEEnormaljot=\dimen106
+\IEEEilabelindentA=\dimen107
+\IEEEilabelindentB=\dimen108
+\IEEEilabelindent=\dimen109
+\IEEEelabelindent=\dimen110
+\IEEEdlabelindent=\dimen111
+\IEEElabelindent=\dimen112
+\IEEEiednormlabelsep=\dimen113
+\IEEEiedmathlabelsep=\dimen114
+\IEEEiedtopsep=\skip52
+\c@IEEEsubequation=\count90
+\@IEEEeqnnumcols=\count91
+\@IEEEeqncolcnt=\count92
+\IEEEPARstartletwidth=\dimen115
+) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+
+
+! LaTeX Error: File `utf8x.def' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: def)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.131 \endinput
+               ^^M
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 1871 strings out of 495028
+ 23646 string characters out of 6181497
+ 67078 words of memory out of 5000000
+ 5141 multiletter control sequences out of 15000+600000
+ 5252 words of font info for 19 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 33i,0n,43p,183b,56s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

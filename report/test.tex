@@ -1,0 +1,76 @@
+\documentclass[11pt]{report}
+\usepackage{fancyhdr}
+\usepackage{fancybox}
+\usepackage{tipa}
+
+\usepackage[retainorgcmds]{IEEEtrantools}
+\usepackage[utf8x]{inputenc}
+\usepackage{epsfig}
+\usepackage{anysize}
+\usepackage{gensymb}
+\usepackage{amssymb}
+\usepackage[utf8x]{inputenc}
+\usepackage{longtable}
+\usepackage{url}
+\usepackage{plain}
+\renewcommand{\bibname}{References}
+%\usepackage{hyperref}
+\usepackage[plainpages=false]{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    citecolor=black,
+    filecolor=black,
+    urlcolor=black,
+}
+\lhead{}
+
+
+\setcounter{page}{-100}
+\setcounter{secnumdepth}{5}
+
+\newenvironment{fminipage}%
+{\begin{Sbox}\begin{minipage}}%
+{\end{minipage}\end{Sbox}\fbox{\TheSbox}}
+% Title Page
+\title{\textbf{Web Security - XSS Filters}}
+\vspace{2.5cm}
+\author{\bf{A Seminar Report}\\
+        \\
+        \emph{Submitted in partial fulfillment of requirements for the degree of}\\
+        \\
+        \bf{Master of Technology}\\
+        \\
+        \emph{by}\\
+        \\
+		\bf{Abhishek Awasthi}\\
+        \bf{Roll No : 133050026}\\
+        \\
+        \emph{under the guidance of}\\
+        \\
+        \bf{Prof. Bernard L. Menezes}\\
+        \\\\
+        \includegraphics[height=3.5cm]{./images/iitb_logo}\\
+        \\
+        \bf{Department of Computer Science and Engineering}\\
+        \bf{Indian Institute of Technology, Bombay}\\
+}
+\date{April, 2014}
+
+
+% page layout settings
+
+% \setlength{\parindent}{2pc}
+% \setlength{\oddsidemargin}{50pt}
+% \setlength{\evensidemargin}{50pt}
+% \setlength{\marginparwidth}{50pt}
+% \setlength{\textheight}{9.0in}
+% \setlength{\topmargin}{-0.75in}
+% \setlength{\footskip}{30pt}
+
+\marginsize{2.5cm}{2.5cm}{1cm}{1.5cm}
+\setlength{\headheight}{15pt}
+
+\pagestyle{fancy}
+
+\usepackage{graphicx}
