@@ -1,0 +1,9 @@
+\contentsline {chapter}{\numberline {1}Introduction}{i}{chapter.1}
+\contentsline {chapter}{\numberline {2}Reader Writers Flow Model}{ii}{chapter.2}
+\contentsline {chapter}{\numberline {3}Message Sequence Chart}{iii}{chapter.3}
+\contentsline {chapter}{\numberline {4}DroidRacer}{v}{chapter.4}
+\contentsline {section}{\numberline {4.1}Modelling the runtime environment}{v}{section.4.1}
+\contentsline {section}{\numberline {4.2}Analysis for data races}{v}{section.4.2}
+\contentsline {chapter}{\numberline {5}Idea and Approach}{vii}{chapter.5}
+\contentsline {chapter}{\numberline {6}Experimentation and Output}{xi}{chapter.6}
+\contentsline {chapter}{\numberline {7}Future Work}{xiv}{chapter.7}
